@@ -9,8 +9,8 @@ import './globals.css';
 
 export const metadata = constructMetadata({
   title: {
-    default: 'BooksGod',
-    template: `%s | BooksGod`,
+    default: 'BooksBazaar',
+    template: `%s | BooksBazaar`,
   },
 });
 
