@@ -1,11 +1,12 @@
-# BooksGod
+# BooksBazaar
 
 ![](./public/booksgod.png)
-**BooksGod** is a Next.js application designed for managing and exploring books. It incorporates the latest features and best practices of Next.js 14, providing a comprehensive platform for both readers and authors.
+**Books-Bazaar** is a Next.js application designed for managing and exploring books. It incorporates the latest features and best practices of Next.js 14, providing a comprehensive platform for both readers and authors.
 
 ## Overview
 
-Users can log in, search for books, read, and register as authors to write their own books. Authors can utilize the provided editor to write, save drafts, and publish. It supports book cover uploads, details, and allows paid book purchases for users.
+A full-stack community platform for users to list, browse, and exchange books with cover images, reviews, and user dashboards.
+Built using Next.js, Node.js, Express, MongoDB, and TailwindCSS.
 
 ## Features
 
